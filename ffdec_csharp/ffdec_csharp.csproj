@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ffdec_graph_csharp\ffdec_graph_csharp.csproj" />
+    <ProjectReference Include="..\ffdec_helpers_csharp\ffdec_helpers_csharp.csproj" />
+  </ItemGroup>
+
+</Project>

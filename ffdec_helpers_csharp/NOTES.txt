@@ -1,0 +1,1 @@
+﻿C# measures ms as smallest time frame, whereas java measures ns. As such, stopwatch and all files that use stopwatch have been adjusted.

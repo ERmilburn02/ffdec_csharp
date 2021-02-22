@@ -1,0 +1,4 @@
+﻿FILES TO REVIST
+tags/enums/ImageFormat
+
+Folder tags/base causes issues, renamed to _base
